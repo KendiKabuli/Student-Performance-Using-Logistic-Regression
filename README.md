@@ -1,4 +1,4 @@
-Student Performance Prediction
+###Student Performance Prediction
 
 This project predicts student exam performance based on various factors such as study time, internet access, parental support, school environment, and more.
 It uses a Logistic Regression model to classify whether a student is likely to pass or fail.
